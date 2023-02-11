@@ -1,0 +1,65 @@
+[
+  {
+    "id": 12889839,
+    "image": "/images/cake.webp",
+    "title": "Black Forest Cake",
+    "price": "500",
+    "mrp": "600",
+    "description": "",
+    "quantity": 1
+  },
+  {
+    "id": 12889840,
+    "image": "/images/cake.webp",
+    "title": "Vanilla Cake",
+    "price": "400",
+    "mrp": "600",
+    "description": "",
+    "quantity": 1
+  },
+  {
+    "id": 12889841,
+    "image": "/images/cake.webp",
+    "title": "Chocolate Cake",
+    "price": "550",
+    "mrp": "600",
+    "description": "Our chocolate cake is made with high-quality cocoa powder and melted chocolate, giving it a deep, rich chocolate taste that is both bold and luxurious. The cake itself is fluffy and tender, with a soft crumb that melts in your mouth.",
+    "quantity": 1
+  },
+  {
+    "id": 12889842,
+    "image": "/images/cake.webp",
+    "title": "Dessert Cake",
+    "price": "600",
+    "mrp": "600",
+    "description": "",
+    "quantity": 1
+  },
+  {
+    "id": 12889843,
+    "image": "/images/cake.webp",
+    "title": "Strawberry Cake",
+    "price": "500",
+    "mrp": "700",
+    "description": "",
+    "quantity": 1
+  },
+  {
+    "id": 12889844,
+    "image": "/images/cake.webp",
+    "title": "Dark Forest",
+    "price": "500",
+    "mrp": "600",
+    "description": "500g",
+    "quantity": 1
+  },
+  {
+    "id": 12889845,
+    "image": "/images/cake.webp",
+    "title": "Pineapple Cake",
+    "price": "300",
+    "mrp": "600",
+    "description": "",
+    "quantity": 1
+  }
+]
