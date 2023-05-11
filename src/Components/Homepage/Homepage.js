@@ -19,7 +19,13 @@ const Homepage = (props) => {
   }, []);
 
   useEffect(() => {
-    setCartListing({ ...cartListing });
+    if (JSON.parse(localStorage.getItem("tempCart"))?.length) {
+      setCartListing({ 
+        tempCart: JSON.parse(localStorage.getItem("tempCart")) ?? [],
+        totalCart: JSON.parse(localStorage.getItem("totalCart")) ?? 0,
+        totalItemsInCart: JSON.parse(localStorage.getItem("tempCart"))?.length ?? 0,
+      });
+    }
   }, [cartListing.totalItemsInCart]);
 
   return (
